@@ -21,6 +21,7 @@
 - [Divyam-Chauhan](https://github.com/divyam-chauhan).
 z54c6hf
 - [Kamelio0815](https://github.com/kamelio0815) - my first contribution
+- [Rommmoa](https://github.com/Rommmoa)
 - [Itsamam](https://github.com/itsamam) - This is my first open source contribution!
 - [Cristhian Sebastian Arias Hernandez](https://github.com/sebastianarhez-max)
 - [Pranesh Kishan](https://github.com/PraneshKishan)
